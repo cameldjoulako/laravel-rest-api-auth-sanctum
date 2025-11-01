@@ -39,8 +39,12 @@ cd laravel-rest-api-auth-sanctum
 
 ### 2. Install Dependencies
 
+```bash
 composer install
+```
 
 ### 3. Configure Environment
 
+```bash
 cp .env.example .env
+```
